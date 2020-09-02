@@ -99,6 +99,16 @@ margin: auto;
   padding: 1%;
 }
 
+.carousel-control-prev-icon {
+  color: #111111;
+  background-color: #111111;
+}
+
+.carousel-control-next-icon{
+  color: #111111;
+  background-color: #111111;
+}
+
 /* .skill-row {
   background-color: #C1C1C1;
   padding: 5%;
