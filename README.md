@@ -1,2 +1,2 @@
-# my-first-web-page
+# MY Portfolio
 [link to website](https://lovishtater.github.io/lovish/index.html
